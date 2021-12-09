@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nipunbnair
 - 👀 I’m interested in ... Artificial Intelligence and Statistics
 - 🌱 I’m currently learning ... Artificial Intelligence 
-- 💞️ I’m looking to collaborate on ... Neural Networks and Biomedicine
+- 💞️ I’m looking to collaborate on ... Neural Networks, Biomedicine Statistics and Data Science
 - 📫 How to reach me ... nipunbnair@gmail.com
 
 <!---
